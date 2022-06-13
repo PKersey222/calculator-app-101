@@ -1,5 +1,25 @@
+html {
+  background: black;
+}
+
 body {
   margin: 20% auto;
   width: 50%;
   height: 75%;
+  color: aqua;
+  font-size: 50px;
+}
+
+#first-number {
+  
+
+}
+
+label {
+  background: cadetblue
+}
+
+
+button {
+  background-color: aqua;
 }
